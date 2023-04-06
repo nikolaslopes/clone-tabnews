@@ -15,7 +15,7 @@ function Home() {
     console.log('Você não dá brecha hein :D');
 
     if (specialNames.includes(name.toLowerCase())) {
-      return alert('TE AMO MEU AMOR DA MINHA VIDA 🖤');
+      return alert('TE AMO, AMOR DA MINHA VIDA 🖤');
     }
 
     alert(`${name}, obrigado por ter me clicado XD. Good news are coming...`);
