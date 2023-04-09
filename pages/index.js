@@ -31,7 +31,7 @@ function Home() {
           placeholder={!name ? 'Digite seu nome' : ''}
         />
       </section>
-      ssss
+
       {name ? (
         <button className={styles.button} onClick={handleClickButton}>
           {name}, por favor me clique :(
