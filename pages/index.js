@@ -12,7 +12,7 @@ function Home() {
   };
 
   const handleClickButton = () => {
-    console.log('Você não dá brecha hein :D');
+    console.log('Você não dá brecha hein 😎');
 
     if (specialNames.includes(name.toLowerCase())) {
       return alert('TE AMO, AMOR DA MINHA VIDA 🖤');
